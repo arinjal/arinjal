@@ -1,5 +1,5 @@
 <p align="center">
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF3MHQ3aDZnc2V3emJwbThseHFyNnh2bm0wNGs2eTA5NW5oN2Q5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" height="200">
 </p>
 
 - 📚 Student at the University of Mississippi, majoring in Computer Science and double minoring in Spanish + Mathematics.
