@@ -5,7 +5,7 @@
 ```bash
                                 🌻 Hello! I'm Arin J. Curry 🌻
 ```
-
+##  👩🏽‍💻 About Me
 
 - 📚 Student at the University of Mississippi, majoring in Computer Science and double minoring in Spanish + Mathematics.
 - Former Explore Intern @ Microsoft.
