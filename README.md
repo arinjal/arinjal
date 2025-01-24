@@ -3,7 +3,7 @@
 </p>
 
 ```bash
-              🌻 Hello! I'm Arin J. Curry. An Aspiring Full-stack Software Engineer from Memphis, TN. 🌻
+              🌻 Hello! I'm Arin J. Curry from Memphis, TN. 🌻
 ```
 ##  👩🏽‍💻 About Me
 
